@@ -1,14 +1,14 @@
 ## Problem 1
-**Write a program to find Largest Number Using Dynamic Memory Allocation from a list of 
-elements. You have to input total size of elements and depending upon the number of 
-elements, the required size has to be allocated using DMA. 
-Example:**
+**Write a program that creates a Queue from a stack. After creation the top of the stack 
+will be the front of the queue.**
 
-**Input size of array: 5**
+**Input Data-**
 
-**Array element: 1 2 3 4 5**
+**S: 1 2 3 4 5**
 
-**Expected Output: 5**
+**Output Data-**
+
+**Q: 5 4 3 2 1**
 
 ## Problem 2
 **Given an integer k and a queue of integers, write a program to remove the first k elements 
